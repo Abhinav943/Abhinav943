@@ -44,42 +44,7 @@ My work gravitates toward backend architecture, algorithmic problem-solving, and
 
 ### ⚡ &nbsp;Tech Stack
 
-<div align="center">
-
-#### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="50" title="JavaScript" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="50" title="TypeScript" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="50" title="Node.js" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="50" title="C++" />
-</p>
-
-#### Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=express&theme=dark" height="50" title="Express.js" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="50" title="PostgreSQL" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="50" title="MongoDB" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=redis&theme=dark" height="50" title="Redis" />
-</p>
-
-#### Tools & Ecosystem
-<p>
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="50" title="Git" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="50" title="GitHub" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="50" title="VS Code" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="50" title="Linux" />
-</p>
-
-</div>
+[![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,react,python,c,cpp,java,nodejs,express,postgres,mongodb,redis,git,github,vscode,linux,windows&theme=dark&perline=8)](https://skillicons.dev)
 
 ---
 
