@@ -44,7 +44,7 @@ My work gravitates toward backend architecture, algorithmic problem-solving, and
 
 ### ⚡ &nbsp;Tech Stack
 
-[![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,react,python,c,cpp,java,nodejs,express,postgres,mongodb,redis,git,github,vscode,linux,windows&theme=dark&perline=8)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,react,python,c,cpp,java,nodejs,express,postgres,mongodb,redis,git,github,vscode,webstorm,postman,linux,windows&theme=dark&perline=8)](https://skillicons.dev)
 
 ---
 
