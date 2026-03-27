@@ -16,12 +16,14 @@
 
 <br/><br/>
 
-```
-╔══════════════════════════════════════════════════════════╗
-║   Building elegant systems from first principles.        ║
-║   Obsessed with algorithms, mathematics & clean code.    ║
-╚══════════════════════════════════════════════════════════╝
-```
+<p align="center">
+╭─[ dev@github ]───────────────────────────────────────────╮<br>
+│  ∴ Building elegant systems from first principles        │<br>
+│  ∑ Algorithms · Mathematics · Clean Code                 │<br>
+╰──────────────────────────────────────────────────────────╯
+</p>
+
+<p align="center">─────────────── ✦ ───────────────</p>
 
 </div>
 
@@ -45,6 +47,8 @@ My work gravitates toward backend architecture, algorithmic problem-solving, and
 ### ⚡ &nbsp;Tech Stack
 
 [![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,react,python,c,cpp,java,nodejs,express,postgres,mongodb,redis,git,github,vscode,webstorm,postman,linux,windows&theme=dark&perline=8)](https://skillicons.dev)
+
+ <img src="https://github.com/Abhinav943/Abhinav943/blob/main/public/logo_wordmark_white_bigger.4f0b8599.png" height="48"/>
 
 ---
 
