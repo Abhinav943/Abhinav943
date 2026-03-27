@@ -1,89 +1,65 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Abhinav%20Prajapati&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20Problem%20Solver&descSize=16&descAlignY=58&descColor=aaaacc&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhinav%20Prajapati&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Backend%20Engineer%20%E2%80%A2%20CS%20Student%20%E2%80%A2%20Algorithm%20Thinker&descSize=15&descAlignY=60&descColor=99aadd&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<a href="https://github.com/Abhinav943">
-  <img src="https://img.shields.io/github/followers/Abhinav943?label=Followers&style=for-the-badge&color=6e57e0&labelColor=0d0d1a&logo=github" />
-</a>
+[![GitHub followers](https://img.shields.io/github/followers/Abhinav943?label=Followers&style=for-the-badge&color=5865f2&labelColor=0a0a14&logo=github&logoColor=white)](https://github.com/Abhinav943)
 &nbsp;
-<a href="https://x.com/TheAlgoLog">
-  <img src="https://img.shields.io/badge/TheAlgoLog-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
+[![X (Twitter)](https://img.shields.io/badge/@TheAlgoLog-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TheAlgoLog)
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=Abhinav943&style=for-the-badge&color=6e57e0&label=Profile+Views" />
-
-<br/><br/>
-
-<p align="center">
-╭─[ dev@github ]───────────────────────────────────────────╮<br>
-│  ∴ Building elegant systems from first principles        │<br>
-│  ∑ Algorithms · Mathematics · Clean Code                 │<br>
-╰──────────────────────────────────────────────────────────╯
-</p>
-
-<p align="center">─────────────── ✦ ───────────────</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Abhinav943&style=for-the-badge&color=5865f2&label=Profile+Views)
 
 </div>
 
----
-
-### 🧠 &nbsp;About Me
-
-I'm a CS student who believes that **great software is built at the intersection of mathematics and engineering discipline**.
-
-My work gravitates toward backend architecture, algorithmic problem-solving, and the elegant structures that make complex systems tractable.
-
-- 🔨 &nbsp;Building **VidNova** — a scalable video platform
-- 🧮 &nbsp;Deep in **DSA** + **Number Theory**
-- ♟️ &nbsp;Chess enthusiast & occasional writer
-- 📡 &nbsp;Sharing ideas at **[@TheAlgoLog](https://x.com/TheAlgoLog)**
-
-<br clear="right"/>
+<br/>
 
 ---
 
-### ⚡ &nbsp;Tech Stack
+## 🧠 About Me
 
-[![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,react,python,c,cpp,java,nodejs,express,postgres,mongodb,redis,git,github,vscode,webstorm,postman,linux,windows&theme=dark&perline=8)](https://skillicons.dev)
+> *"Great software lives at the intersection of mathematics and engineering discipline."*
 
- <img src="https://github.com/Abhinav943/Abhinav943/blob/main/public/logo_wordmark_white_bigger.4f0b8599.png" height="48"/>
+CS student on a mission to build systems that are **fast, elegant, and correct**. I care deeply about the *why* behind abstractions — whether that's a clever graph algorithm, a tight backend pipeline, or a beautifully composed proof in number theory.
+
+```yaml
+name     : Abhinav Prajapati
+focus    : Backend Architecture · Algorithms · System Design
+building : VidNova — a scalable video processing platform
+learning : DSA · Number Theory · TypeScript · Database Internals
+vibes    : Chess  |  Math  |  Writing
+platform : @TheAlgoLog on X
+```
 
 ---
 
-### 🚀 &nbsp;Featured Project
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,c,cpp,java,nodejs,express,postgres,mongodb,redis,git,github,vscode,webstorm,postman,linux,windows&theme=dark&perline=8"/>
+</p>
+
+---
+
+## 🚀 Featured Project — VidNova
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="100%">
 
-### 🎬 VidNova
+**🎬 &nbsp; V I D N O V A**
 
-> _A video processing & management platform built for performance at scale_
+*A video processing & management platform built for performance at scale*
 
-```yaml
-Status: 🔨 Active Development
-Runtime: Node.js + TypeScript
-Focus: Scalable backend architecture
-  Efficient media processing pipelines
-  Optimal algorithm design
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Current Learning
-
-```
-✦  Graph Algorithms & DP  ─── ████████░░  80%
-✦  System Design          ─── ██████░░░░  60%
-✦  Number Theory          ─── █████████░  90%
-✦  TypeScript Mastery     ─── ████████░░  80%
-✦  Database Internals     ─── ██████░░░░  55%
-```
+| Property | Details |
+|:---|:---|
+| **Runtime** | Node.js + TypeScript |
+| **Status** | 🔨 Active Development |
+| **Focus** | Scalable backend architecture |
+| | Efficient media processing pipelines |
+| | Optimal algorithm design |
 
 </td>
 </tr>
@@ -93,29 +69,62 @@ Focus: Scalable backend architecture
 
 ---
 
-### 📈 &nbsp;GitHub Analytics
+## 📊 Current Learning Arc
+
+```
+  Graph Algorithms & DP   ████████████████░░░░  80%
+  Number Theory           ██████████████████░░  90%
+  TypeScript Mastery      ████████████████░░░░  80%
+  System Design           ████████████░░░░░░░░  60%
+  Database Internals      ███████████░░░░░░░░░  55%
+```
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Abhinav943&theme=tokyonight&hide_border=true&background=0d0d1a&ring=6e57e0&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&sideNums=ffffff&dates=888899" />
+<table>
+<tr>
+<td align = "center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Abhinav943&theme=tokyonight&hide_border=true&background=0d0d1a&ring=5865f2&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&sideNums=ffffff&dates=888899" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav943&bg_color=0d0d1a&color=a78bfa&line=5865f2&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-### 💡 &nbsp;Interests & Philosophy
+## 💡 What I Think About
 
 <div align="center">
 
-|          &nbsp;&nbsp;**Number Theory**&nbsp;&nbsp;           |                  &nbsp;&nbsp;**Chess**&nbsp;&nbsp;                  |            &nbsp;&nbsp;**Writing**&nbsp;&nbsp;             |           &nbsp;&nbsp;**Systems**&nbsp;&nbsp;            |
-| :----------------------------------------------------------: | :-----------------------------------------------------------------: | :--------------------------------------------------------: | :------------------------------------------------------: |
-| Primes, modular arithmetic, and the hidden order of integers | Positional strategy, calculation, and the art of long-term planning | Technical essays, math explorations, philosophical threads | Architecture, algorithms, and why elegant design matters |
+<table>
+<tr>
+<td align="center" width="25%"><b>🔢 Number Theory</b></td>
+<td align="center" width="25%"><b>♟️ Chess</b></td>
+<td align="center" width="25%"><b>✍️ Writing</b></td>
+<td align="center" width="25%"><b>🏗️ Systems</b></td>
+</tr>
+<tr>
+<td align="center">Primes, modular arithmetic, and the hidden order beneath integers</td>
+<td align="center">Positional strategy, long-term planning, and the beauty of quiet moves</td>
+<td align="center">Technical essays, math explorations, and philosophical threads</td>
+<td align="center">Architecture, tradeoffs, and why elegant design actually matters</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-### 🤝 &nbsp;Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -129,7 +138,7 @@ Focus: Scalable backend architecture
 
 <br/><br/>
 
-_Open to collaborations, DSA discussions, and conversations about anything at the intersection of mathematics and code._
+*Open to collaborations, DSA discussions, and anything at the intersection of mathematics and code.*
 
 </div>
 
@@ -137,8 +146,8 @@ _Open to collaborations, DSA discussions, and conversations about anything at th
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-<sub><sup>✦ &nbsp; Code is craft. Algorithms are art. &nbsp; ✦</sup></sub>
+<sub><sup>✦ &nbsp; Code is craft. Algorithms are art. Build things that matter. &nbsp; ✦</sup></sub>
 
 </div>
