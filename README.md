@@ -22,14 +22,14 @@
 
 CS student on a mission to build systems that are **fast, elegant, and correct**. I care deeply about the *why* behind abstractions — whether that's a clever graph algorithm, a tight backend pipeline, or a beautifully composed proof in number theory.
 
-```yaml
-name     : Abhinav Prajapati
-focus    : Backend Architecture · Algorithms · System Design
-building : VidNova — a scalable video processing platform
-learning : DSA · Number Theory · TypeScript · Database Internals
-vibes    : Chess  |  Math  |  Writing
-platform : @TheAlgoLog on X
-```
+<p align="center">
+  <b>👋 Hi, I'm Abhinav Prajapati</b><br><br>
+  <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-blue?style=for-the-badge&logo=appveyor"/>
+  <img src="https://img.shields.io/badge/Building-VidNova-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning-DSA-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vibes-Chess%20|%20Math%20|%20Writing-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Platform-@TheAlgoLog-lightgrey?style=for-the-badge&logo=twitter"/>
+</p>
 
 ---
 
@@ -49,7 +49,7 @@ platform : @TheAlgoLog on X
 <tr>
 <td align="center" width="100%">
 
-**🎬 &nbsp; V I D N O V A**
+**🎬 &nbsp; [V I D N O V A](https://github.com/Abhinav943/VidNova)**
 
 *A video processing & management platform built for performance at scale*
 
