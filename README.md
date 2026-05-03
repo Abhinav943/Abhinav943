@@ -25,7 +25,6 @@ CS student on a mission to build systems that are **fast, elegant, and correct**
 <p align="center">
   <b>👋 Hi, I'm Abhinav Prajapati</b><br><br>
   <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-blue?style=for-the-badge&logo=appveyor"/>
-  <img src="https://img.shields.io/badge/Building-VidNova-brightgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Learning-DSA-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Vibes-Chess%20|%20Math%20|%20Writing-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Platform-@TheAlgoLog-lightgrey?style=for-the-badge&logo=twitter"/>
@@ -38,46 +37,6 @@ CS student on a mission to build systems that are **fast, elegant, and correct**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,c,cpp,java,nodejs,express,postgres,mongodb,redis,git,github,vscode,webstorm,postman,linux,windows&theme=dark&perline=8"/>
 </p>
-
----
-
-## 🚀 Featured Project — VidNova
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="100%">
-
-**🎬 &nbsp; [V I D N O V A](https://github.com/Abhinav943/VidNova)**
-
-*A video processing & management platform built for performance at scale*
-
-| Property | Details |
-|:---|:---|
-| **Runtime** | Node.js + TypeScript |
-| **Status** | 🔨 Active Development |
-| **Focus** | Scalable backend architecture |
-| | Efficient media processing pipelines |
-| | Optimal algorithm design |
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 Current Learning Arc
-
-```
-  Graph Algorithms & DP   ████████████████░░░░  80%
-  Number Theory           ██████████████████░░  90%
-  TypeScript Mastery      ████████████████░░░░  80%
-  System Design           ████████████░░░░░░░░  60%
-  Database Internals      ███████████░░░░░░░░░  55%
-```
 
 ---
 
