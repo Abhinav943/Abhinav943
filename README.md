@@ -6,8 +6,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Abhinav943?label=Followers&style=for-the-badge&color=5865f2&labelColor=0a0a14&logo=github&logoColor=white)](https://github.com/Abhinav943)
 &nbsp;
-[![X (Twitter)](https://img.shields.io/badge/@TheAlgoLog-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TheAlgoLog)
-&nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=Abhinav943&style=for-the-badge&color=5865f2&label=Profile+Views)
 
 </div>
