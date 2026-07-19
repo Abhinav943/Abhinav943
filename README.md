@@ -14,27 +14,32 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-> *"Great software lives at the intersection of mathematics and engineering discipline."*
-
-CS student on a mission to build systems that are **fast, elegant, and correct**. I care deeply about the *why* behind abstractions — whether that's a clever graph algorithm, a tight backend pipeline, or a beautifully composed proof in number theory.
+Just trying to Software Engineer. I am also deeply passionate about physics. 
 
 <p align="center">
-  <b>👋 Hi, I'm Abhinav Prajapati</b><br><br>
   <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-blue?style=for-the-badge&logo=appveyor"/>
-  <img src="https://img.shields.io/badge/Learning-DSA-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vibes-Chess%20|%20Math%20|%20Writing-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Platform-@TheAlgoLog-lightgrey?style=for-the-badge&logo=twitter"/>
+  <img src="https://img.shields.io/badge/Learning-DSA-orange?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/Interested-Physics-purple?style=for-the-badge&logo=wolfram"/>
 </p>
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,c,cpp,java,nodejs,express,postgres,mongodb,redis,git,github,vscode,webstorm,postman,linux,windows&theme=dark&perline=8"/>
-</p>
+<div align="center">
+
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,python,js,ts&theme=dark"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark"/> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/> |
+| **OS** | <img src="https://skillicons.dev/icons?i=windows&theme=dark"/> |
+
+</div>
 
 ---
 
@@ -58,53 +63,8 @@ CS student on a mission to build systems that are **fast, elegant, and correct**
 
 ---
 
-## 💡 What I Think About
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%"><b>🔢 Number Theory</b></td>
-<td align="center" width="25%"><b>♟️ Chess</b></td>
-<td align="center" width="25%"><b>✍️ Writing</b></td>
-<td align="center" width="25%"><b>🏗️ Systems</b></td>
-</tr>
-<tr>
-<td align="center">Primes, modular arithmetic, and the hidden order beneath integers</td>
-<td align="center">Positional strategy, long-term planning, and the beauty of quiet moves</td>
-<td align="center">Technical essays, math explorations, and philosophical threads</td>
-<td align="center">Architecture, tradeoffs, and why elegant design actually matters</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://x.com/TheAlgoLog">
-  <img src="https://img.shields.io/badge/Follow%20on%20X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Abhinav943">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-*Open to collaborations, DSA discussions, and anything at the intersection of mathematics and code.*
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-<sub><sup>✦ &nbsp; Code is craft. Algorithms are art. Build things that matter. &nbsp; ✦</sup></sub>
 
 </div>
