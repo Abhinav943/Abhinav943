@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhinav%20Prajapati&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Backend%20Engineer%20%E2%80%A2%20CS%20Student%20%E2%80%A2%20Algorithm%20Thinker&descSize=15&descAlignY=60&descColor=99aadd&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abhinav%20Prajapati&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=FullStack%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20CS%20Student&descSize=15&descAlignY=60&descColor=99aadd&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -15,8 +15,11 @@
 ---
 
 ## About Me
+I'm a Computer Science student passionate about designing scalable backend systems and building full-stack applications.
 
-Just trying to Software Engineer. I am also deeply passionate about physics. 
+I enjoy solving algorithmic problems in C++, exploring distributed systems, and creating production-ready software using Node.js, TypeScript, React, MongoDB, and PostgreSQL.
+
+Currently focused on backend architecture, system design, and data structures & algorithms.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-blue?style=for-the-badge&logo=appveyor"/>
